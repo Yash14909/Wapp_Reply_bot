@@ -1,0 +1,7 @@
+openai>=1.0.0
+pyautogui>=0.9.53
+pyperclip>=1.8.2
+
+✅ You can install dependencies using:
+pip install -r requirements.txt
+
