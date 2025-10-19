@@ -21,6 +21,7 @@ This Python project is an automated chatbot that reads WhatsApp messages from th
 - OpenAI API Key
 - WhatsApp Web or Desktop App (with predictable layout)
 - Proper screen coordinates for your resolution
+- Use your own coordinates for proper fuctionality of this code
 
 ---
 
