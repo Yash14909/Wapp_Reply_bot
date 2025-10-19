@@ -8,7 +8,7 @@ openai.api_key = "***"
   # Add your API key
 
 # Function to check last message sender
-def is_last_message_from_sender(chat_text, sender_name="YASHVARDHAN REDDY"):
+def is_last_message_from_sender(chat_text, sender_name="XYZ"):
     try:
         messages = chat_text.strip().split("/2024")[-1]
         return sender_name in messages
